@@ -1,0 +1,12 @@
+C:\Users\jcgar\Documents\VSCode\Rust\Rocket\pastebin\target\debug\deps\libcookie-96878e95151bf2d9.rmeta: C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\lib.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\builder.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\parse.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\jar.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\delta.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\same_site.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\expiration.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\prefix.rs
+
+C:\Users\jcgar\Documents\VSCode\Rust\Rocket\pastebin\target\debug\deps\cookie-96878e95151bf2d9.d: C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\lib.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\builder.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\parse.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\jar.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\delta.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\same_site.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\expiration.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\prefix.rs
+
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\lib.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\builder.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\parse.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\jar.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\delta.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\same_site.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\expiration.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\prefix.rs:

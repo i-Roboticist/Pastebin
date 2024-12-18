@@ -1,0 +1,10 @@
+C:\Users\jcgar\Documents\VSCode\Rust\Rocket\pastebin\target\debug\deps\libfutures_channel-4d1779fad38d2c36.rmeta: C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src/lib.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\sink_impl.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs
+
+C:\Users\jcgar\Documents\VSCode\Rust\Rocket\pastebin\target\debug\deps\futures_channel-4d1779fad38d2c36.d: C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src/lib.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\sink_impl.rs C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs
+
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src/lib.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\sink_impl.rs:
+C:\Users\jcgar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs:

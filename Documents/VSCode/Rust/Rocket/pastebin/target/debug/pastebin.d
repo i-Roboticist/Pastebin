@@ -1,0 +1,1 @@
+/mnt/c/Users/jcgar/Documents/VSCode/Rust/Rocket/pastebin/target/debug/pastebin: /mnt/c/Users/jcgar/Documents/VSCode/Rust/Rocket/pastebin/src/main.rs /mnt/c/Users/jcgar/Documents/VSCode/Rust/Rocket/pastebin/src/paste_id.rs
